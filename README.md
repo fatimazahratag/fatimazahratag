@@ -53,8 +53,11 @@ Leadership | Time Management | Adaptability | Learning Ability | Critical Thinki
 ---
 
 ## 📊 GitHub Stats
-![Fatima Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimazahratag&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazahratag&layout=compact&theme=radical)  
+![Fatima Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimazahratag&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazahratag&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatimazahratag&theme=radical)
+![Fatima Zahra's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=fatimazahratag&theme=react-dark&hide_border=true)
+[![Fatima Zahra's GitHub Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimazahratag&theme=radical)](https://github.com/fatimazahratag)
 
 ---
 
