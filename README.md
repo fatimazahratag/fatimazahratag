@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Fatima Zahra Tagmouti
 
-💻 **Software Engineering Student | Full-Stack Web Developer | Master's Student in Software Engineering**  
-🌍 Based in **Oujda, Morocco**  
+🎓 Master's Student in Software Engineering  
+🌍 Based in Oujda, Morocco  
+💡 Passionate about Web Development, AI & Cloud 
 🚀 I build **applications that solve real-life problems** and enhance user experiences.  
 🎓 Currently in my **final year of Computer Engineering** specializing in Full-Stack Web Development.
 
@@ -60,6 +61,42 @@ Leadership | Time Management | Adaptability | Learning Ability | Critical Thinki
 [![Fatima Zahra's GitHub Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimazahratag&theme=radical)](https://github.com/fatimazahratag)
 
 ---
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatimazahratag&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimazahratag&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatimazahratag&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimazahratag&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📌 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazahratag&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 👀 Visitors  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=fatimazahratag&color=blue&style=for-the-badge)
 
 ## 📫 Contact Me
 - ✉️ Email: tagmoutifatimazahra08@gmail.com  
