@@ -37,7 +37,6 @@ Leadership | Time Management | Adaptability | Learning Ability | Critical Thinki
 ## 📂 Projects
 - [Exoplanet Chronicles](https://github.com/fatimazahratag/Exoplanet-Chronicles) – Educational web app about exoplanets  
 - [MindConnect](https://github.com/fatimazahratag/MindConnect) – Mental health platform with AI assistant  
-- [Travel Pack](https://github.com/fatimazahratag/Travel-Pack) – Travel planning assistant  
 - Gym Management System – HTML, CSS, JavaScript, PHP, Bootstrap, C++, Qt, Java Swing  
 - School Management System – HTML, CSS, JavaScript, jQuery, Laravel, PHP, MySQL  
 - Recruitment Management System – React, .NET Core, Entity Framework, SQL Server, Python  
@@ -62,7 +61,7 @@ Leadership | Time Management | Adaptability | Learning Ability | Critical Thinki
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: tagmoutifatimazahra08@gmail.com  
+- ✉️ Email: fatimazahra.tagmouti.dev@gmail.com  
 - 🔗 LinkedIn: [Fatima Zahra Tagmouti](https://www.linkedin.com/in/fatima-zahra-tagmouti-37138b295/)  
 - 📸 Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ft_zahrae_/)  
 
