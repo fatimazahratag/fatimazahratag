@@ -2,7 +2,7 @@
 
 🎓 Master's Student in Software Engineering  
 🌍 Based in Oujda, Morocco  
-💡 Passionate about Web Development, AI & Cloud 
+💡 Passionate about Web Development, AI & Cloud, Devops, Salesforce 
 🚀 I build **applications that solve real-life problems** and enhance user experiences.  
 🎓 Currently in my **final year of Computer Engineering** specializing in Full-Stack Web Development.
 
@@ -11,11 +11,13 @@
 ## 🔧 Technical Skills
 
 **Web & Programming:** Python, HTML, CSS, Bootstrap, JavaScript, jQuery, React, Laravel, PHP, C++, Java, Spring, .NET, Jakarta EE, Maven  
+**CRM & Business Apps:** Salesforce, Dynamics 365  
 **Design & UI/UX:** Adobe XD, InDesign, Illustrator, Photoshop, Canva, Figma, Swing, Qt  
 **Databases:** MySQL, MongoDB, Microsoft SQL Server  
-**Project Management & Tools:** Jira, Trello, GitHub, GitLab, Tortoise  
-**Deployment & CI/CD:** Docker, Virtual Machines, Kubernetes, Ansible, Jenkins  
-**Testing & APIs:** Postman, Swagger, Unit Testing (JUnit)  
+**Project Management & Tools:** Jira, Trello,Notion,Microsoft Teams, GitHub, GitLab, Tortoise  
+**Deployment & CI/CD:** Docker, Virtual Machines, Kubernetes, Ansible, Jenkins, SonarQube
+**Monitoring & Analytics:** Grafana, Prometheus  
+**Testing & APIs:** Cypress, Selenium, Postman, Swagger, Unit Testing (JUnit)  
 **Office:** Microsoft Word, Excel, PowerPoint  
 
 ---
@@ -35,8 +37,8 @@ Leadership | Time Management | Adaptability | Learning Ability | Critical Thinki
 ---
 
 ## 📂 Projects
-- [Exoplanet Chronicles](https://github.com/fatimazahratag/Exoplanet-Chronicles) – Educational web app about exoplanets  
-- [MindConnect](https://github.com/fatimazahratag/MindConnect) – Mental health platform with AI assistant  
+- Educational web app about exoplanets  
+- Mental health platform with AI assistant  
 - Gym Management System – HTML, CSS, JavaScript, PHP, Bootstrap, C++, Qt, Java Swing  
 - School Management System – HTML, CSS, JavaScript, jQuery, Laravel, PHP, MySQL  
 - Recruitment Management System – React, .NET Core, Entity Framework, SQL Server, Python  
